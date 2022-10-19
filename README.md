@@ -19,7 +19,7 @@
 
 ### Description 
 - Zintegrowany z Discord'em system zgłoszenia graczy
-- Plugin po wybraniu gracza oraz powodu wysyła wiadomość na Nasz serwer Discord, oznaczając przy tym Administrację serwera
+- Plugin po wybraniu gracza oraz powodu wysyła wiadomość na nasz serwer Discord, oznaczając przy tym administrację serwera
 - Powody zgłoszeń można edytować przez plik `reasons.ini`
 - Plugin posiada rozbudowaną opcje konifugracji (40 cvarów)
 
@@ -227,7 +227,7 @@ Troll
 </details>
 
 <details>
-  <summary><b>Server</b></summary>
+  <summary><b>Server:</b></summary>
   
 - Admin chat info
 
