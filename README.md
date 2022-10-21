@@ -1,6 +1,6 @@
 <div align="center">
 
-## Plugin Report Players (Report Panel)
+## Report Players (Report Panel)
 
 <img src="https://i.imgur.com/LPsTt48.png"></img>
 
