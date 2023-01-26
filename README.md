@@ -2,7 +2,7 @@
 
 ## Report Players (Report Panel)
 
-<img src="https://i.imgur.com/LPsTt48.png"></img>
+<img src="https://raw.githubusercontent.com/AMXX4u/report-players/main/assets/report.png"></img>
 
 </div>
 
